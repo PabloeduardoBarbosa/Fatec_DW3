@@ -1,4 +1,4 @@
-# Fatec_DW3
+# Fatec_DW3_Projeto_Avaliativo
 
 ### Descrição do Algoritmo de Consulta de Dados Meteorológicos
 
